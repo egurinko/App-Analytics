@@ -1,10 +1,11 @@
+# Introduction
+This was created during my time as a student at Code Chrysalis!<br>
+This app was written in Kotlin to expand my flexibility of language (Polyglottal)
 
 # App Analytics
+App Analytics is an Android App analyzing how much time you spent on each applications in one day.
 
-This was created during my time as a student at Code Chrysalis!<br>
-This is an Android App analyzing how much time you spent on each applications in one day.
-
-![App Analytics UI](https://user-images.githubusercontent.com/23233648/48925664-a6fad280-ef09-11e8-8b6a-9ce8e6777faa.png)
+![App Analytics UI]()
 
 ## Table of content
 
