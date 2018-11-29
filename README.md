@@ -10,11 +10,7 @@ App Analytics is an Android App analyzing how much time you spent on each applic
 ## Table of content
 
 - [Features](#Features)
-- [Demo Page](#Demo-Page)
 - [Setup](#Setup)
-  - [Get some API keys](#Get-some-API-keys)
-  - [Installation](#Installation)
-- [How it works](#How-it-works)
 - [Links](#links)
 
 ## Features
@@ -30,18 +26,5 @@ Please download APK file from this repository.
 
 ## Links
 
-- [Web Site](https://kudos-love.herokuapp.com/)
-- [Rakuten Rapid API](https://english.api.rakuten.net/)
-- [Giphy Developers](https://developers.giphy.com/)
-- [Twillio Docs](https://jp.twilio.com/docs/)
-- [React](https://reactjs.org/)
-- [Redux](https://redux.js.org/)
-- [MATERIAL-UI](https://material-ui.com/)
-- [PostgreSQL](https://www.postgresql.org/)
-- [Express](http://expressjs.com/)
-
-### Created by Team Love
-##### Follow us on Github:
-- [chcliu](https://github.com/chcliu)
-- [SoraMaruyama](https://github.com/SoraMaruyama)
-- [egurinko](https://github.com/egurinko)
+- [Kotlin Official Doc](https://kotlinlang.org/)
+- [Android Developer Page](https://developer.android.com/)
